@@ -1,0 +1,6 @@
+E:\Test Project\ConsoleTest\AdapterPattern\bin\Debug\AdapterPattern.exe.config
+E:\Test Project\ConsoleTest\AdapterPattern\bin\Debug\AdapterPattern.exe
+E:\Test Project\ConsoleTest\AdapterPattern\bin\Debug\AdapterPattern.pdb
+E:\Test Project\ConsoleTest\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+E:\Test Project\ConsoleTest\AdapterPattern\obj\Debug\AdapterPattern.exe
+E:\Test Project\ConsoleTest\AdapterPattern\obj\Debug\AdapterPattern.pdb
